@@ -1,0 +1,48 @@
+body{  padding-left: 300px;
+margin-top: 50px;
+}
+.first{text-align:center
+
+
+}
+.second{ padding-left: 300px;
+ margin-top: 100px;
+
+}
+.second h1,h3{ color:red}
+.third{ display:inline-
+                    
+}
+.Third{ display:flex
+}
+.Four{   text-align: left;
+
+}
+.five{display:flex;
+margin:2%;
+
+}
+.ellipse{
+ margin:auto;
+ 
+ 
+}
+.sec-1{
+   display:flex;                
+}              
+.eight{   position:center;
+                    display: block;   
+                    padding-left: 40%;   
+margin-top: 10%;
+                    
+}
+h6{ border: 2px solid red;
+                    border-radius: 5px;
+border-top-right-radius: 10px;
+}
+.nine{
+                    display:flex
+                    padding-left:800px
+
+}
+footer{text-align;:center}
